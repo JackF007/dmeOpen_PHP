@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header{
+	width:100%;		
+}
+#head1{
+	padding:0 15px 0 100px;
+	width:200px;
+}
+
+.has-ul{
+	width:auto!important;
+}
+
+
+
+
+
+#footer{
+	width:100%;
+}

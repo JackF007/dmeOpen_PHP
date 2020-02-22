@@ -1,0 +1,6 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-11-05 18:19:50 --> Severity: Warning --> file_get_contents(http://appsquadz.online/daps/awssms/index.php?mobile=8427299730&amp;message=Your+OTP+for+DAPS+is+9837): failed to open stream: Connection timed out /var/www/html/gyacomo/application/modules/api_panel/helpers/sms_helper.php 5
+ERROR - 2018-11-05 18:20:44 --> Severity: Warning --> file_get_contents(http://appsquadz.online/daps/awssms/index.php?mobile=8427299730&amp;message=Your+OTP+for+DAPS+is+8521): failed to open stream: Connection timed out /var/www/html/gyacomo/application/modules/api_panel/helpers/sms_helper.php 5
+ERROR - 2018-11-05 18:21:54 --> Severity: Warning --> file_get_contents(http://appsquadz.online/daps/awssms/index.php?mobile=8427299730&amp;message=Your+OTP+for+DAPS+is+1334): failed to open stream: Connection timed out /var/www/html/gyacomo/application/modules/api_panel/helpers/sms_helper.php 5
+ERROR - 2018-11-05 18:22:27 --> Severity: Warning --> file_get_contents(http://appsquadz.online/daps/awssms/index.php?mobile=8427299730&amp;message=Your+OTP+for+DAPS+is+6145): failed to open stream: Connection timed out /var/www/html/gyacomo/application/modules/api_panel/helpers/sms_helper.php 5

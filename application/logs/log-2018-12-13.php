@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-12-13 15:30:54 --> Severity: Notice --> Undefined index: name /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 69
+ERROR - 2018-12-13 15:30:54 --> Severity: Notice --> Undefined index: url /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 80
+ERROR - 2018-12-13 15:30:54 --> Severity: Notice --> Undefined index: url /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 80
+ERROR - 2018-12-13 15:30:54 --> Severity: Notice --> Undefined index: request /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 89
+ERROR - 2018-12-13 15:30:54 --> Severity: Notice --> Undefined index: request /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 90
+ERROR - 2018-12-13 15:30:54 --> Severity: Notice --> Undefined index: response /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 100
+ERROR - 2018-12-13 15:30:54 --> Severity: Notice --> Undefined index: response /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 101
+ERROR - 2018-12-13 15:31:31 --> Severity: Notice --> Undefined index: name /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 69
+ERROR - 2018-12-13 15:31:31 --> Severity: Notice --> Undefined index: url /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 80
+ERROR - 2018-12-13 15:31:31 --> Severity: Notice --> Undefined index: url /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 80
+ERROR - 2018-12-13 15:31:31 --> Severity: Notice --> Undefined index: request /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 89
+ERROR - 2018-12-13 15:31:31 --> Severity: Notice --> Undefined index: request /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 90
+ERROR - 2018-12-13 15:31:31 --> Severity: Notice --> Undefined index: response /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 100
+ERROR - 2018-12-13 15:31:31 --> Severity: Notice --> Undefined index: response /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 101
+ERROR - 2018-12-13 15:32:34 --> Severity: Notice --> Undefined index: name /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 69
+ERROR - 2018-12-13 15:32:34 --> Severity: Notice --> Undefined index: url /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 80
+ERROR - 2018-12-13 15:32:34 --> Severity: Notice --> Undefined index: url /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 80
+ERROR - 2018-12-13 15:32:34 --> Severity: Notice --> Undefined index: request /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 89
+ERROR - 2018-12-13 15:32:34 --> Severity: Notice --> Undefined index: request /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 90
+ERROR - 2018-12-13 15:32:34 --> Severity: Notice --> Undefined index: response /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 100
+ERROR - 2018-12-13 15:32:34 --> Severity: Notice --> Undefined index: response /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 101
+ERROR - 2018-12-13 17:23:56 --> Severity: Notice --> Undefined index: name /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 69
+ERROR - 2018-12-13 17:23:56 --> Severity: Notice --> Undefined index: url /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 80
+ERROR - 2018-12-13 17:23:56 --> Severity: Notice --> Undefined index: url /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 80
+ERROR - 2018-12-13 17:23:56 --> Severity: Notice --> Undefined index: request /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 89
+ERROR - 2018-12-13 17:23:56 --> Severity: Notice --> Undefined index: request /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 90
+ERROR - 2018-12-13 17:23:56 --> Severity: Notice --> Undefined index: response /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 100
+ERROR - 2018-12-13 17:23:56 --> Severity: Notice --> Undefined index: response /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 101
+ERROR - 2018-12-13 17:27:09 --> Severity: Notice --> Undefined index: name /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 69
+ERROR - 2018-12-13 17:27:09 --> Severity: Notice --> Undefined index: url /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 80
+ERROR - 2018-12-13 17:27:09 --> Severity: Notice --> Undefined index: url /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 80
+ERROR - 2018-12-13 17:27:09 --> Severity: Notice --> Undefined index: request /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 89
+ERROR - 2018-12-13 17:27:09 --> Severity: Notice --> Undefined index: request /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 90
+ERROR - 2018-12-13 17:27:09 --> Severity: Notice --> Undefined index: response /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 100
+ERROR - 2018-12-13 17:27:09 --> Severity: Notice --> Undefined index: response /var/www/html/gyacomo/application/modules/api_doc/views/api/api_doc.php 101

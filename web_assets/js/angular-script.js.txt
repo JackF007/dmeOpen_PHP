@@ -1,0 +1,5 @@
+var app = angular.module("myapp", ["ngRoute", "ngAnimate"]);
+
+myapp.configure(['$routeProvider', function($routeProvider){
+	$routeProvider.when()
+}]);
